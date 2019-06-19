@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+    background-color:hsl(240 88% 15%);
+}
+
+
+p{
+font: Arial;
+text-align:left;
+font-weight:normal
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+body{
+    font-size: 18px;
+    margin:0 auto;
+    width:75%;
+    padding:5%;
+    color:white;
+    text-align:center;
+}
+h1{
+    text-transform: uppercase;
+    font-style: italic;
+    text-align:center;
+    font-family: Georgia;
+}
+h3{
+    font-style: italic;
+}
+footer{
+    text-align:right;
+    font-family: Georgia, serif;
+}
+#canada{
+    color:hsl(0 90% 50%);
+    font-family: Georgia ,serif;
+}
